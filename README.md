@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👋 Hi, I’m Najib @NHazelJ.
 - 💻 I’m interested in everything code, movies, and soccer.
