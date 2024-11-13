@@ -11,7 +11,7 @@
 - 📫 Reach me through my email - [najib.mosquera@hotmail.com](mailto:najib.mosquera@hotmail.com)
 ##
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/najib-h-mosquera/)" target="_blank">
+<a href="(https://www.linkedin.com/in/najib-h-mosquera/)" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
 </a>
 
