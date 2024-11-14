@@ -10,12 +10,8 @@
 - 🐊 I'm a CS student @ University of Florida.
 - 📫 Reach me through my email - [najib.mosquera@hotmail.com](mailto:najib.mosquera@hotmail.com)
 ### Connect with me:
-<a href="https://www.linkedin.com/in/najib-h-mosquera/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="vertical-align: middle;">
-</a>
-<a href="mailto:najib.mosquera@hotmail.com">
-  <img src="https://img.icons8.com/ios-filled/60/b0b0b0/message-squared.png" alt="Email" width="60" height="60" style="vertical-align: middle;">
-</a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="60" height="60" style="vertical-align: middle;">](https://www.linkedin.com/in/najib-h-mosquera/)
+[<img src="https://img.icons8.com/ios-filled/60/b0b0b0/message-squared.png" alt="Email" width="60" height="60" style="vertical-align: middle;">](mailto:najib.mosquera@hotmail.com)
 
 ### Languages and Tools:
 <div align="Left">
