@@ -16,6 +16,7 @@
 <a href="mailto:najib.mosquera@hotmail.com">
   <img src="https://img.icons8.com/ios-filled/60/b0b0b0/message-squared.png" alt="Email" width="60" height="60" style="vertical-align: middle;">
 </a>
+
 ### Languages and Tools:
 <div align="Left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
