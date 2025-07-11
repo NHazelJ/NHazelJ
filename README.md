@@ -5,7 +5,7 @@
 
 - 👋 I’m Najib @NHazelJ.
 - 💻 I’m interested in everything code, movies, and soccer.
-- 🤝 Currently working towards becoming an AI/ML Engineer.
+- 🤝 Currently working towards becoming an AI Cloud Software Engineer.
 - 💼 Focusing on cloud-based AI solutions, machine learning model deployment, and data pipeline development.
 - 🚀 I’m currently working on my portfolio.
 - 🐊 I'm a CS student @ University of Florida.
