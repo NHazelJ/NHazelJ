@@ -8,7 +8,7 @@
 - 🤝 Currently working towards becoming an **AI Cloud Software Engineer**.
 - 💼 Focusing on cloud-based AI solutions, machine learning model deployment, and data pipeline development.
 - 🚀 I’m currently working on my portfolio.
-- 🐊 I'm a CS student @ University of Florida.
+- 🐊 I'm a CS student @ *University of Florida*.
 - 📫 Reach me through my email - [najib.mosquera@hotmail.com](mailto:najib.mosquera@hotmail.com)
 ### Connect with me:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="60" height="60" style="vertical-align: middle;">](https://www.linkedin.com/in/najib-h-mosquera/)
