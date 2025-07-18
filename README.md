@@ -2,7 +2,6 @@
 
 <!--
 **NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 - 👋 I’m **Najib** @NHazelJ.
 - 💻 I’m interested in everything code, movies, and soccer.
 - 🤝 Currently working towards becoming an **AI Cloud Software Engineer**.
