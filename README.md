@@ -2,11 +2,10 @@
 👋 I’m **Najib** @NHazelJ.
 <!--
 **NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.-->
-- 🤝 Currently working towards becoming an **AI Quant Developer**.
-- 💼 Focusing on cloud-based AI solutions, machine learning model deployment, and data pipeline development.
-- 💻 Building AI, cloud, and systems projects  
+- 🤝 Working toward **AI Quant Developer** roles
+- 💼 Building cloud-based AI solutions, ML model deployment, and data pipelines
+- 💻 AI, cloud, and systems projects (portfolio in progress) 🚀 
 - 📈 Interested in quant & ML engineering
-- 🚀 I’m currently working on my portfolio.
 - 🎓 M.S. Computer Science @ *Northeastern University* 🐺 | AI • Cloud • Systems
 - 🐊 B.S. Computer Science @ *University of Florida*
 - ⚽ I’m interested in everything code, movies, and soccer.
