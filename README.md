@@ -7,6 +7,7 @@
 - 🤝 Currently working towards becoming an **AI Quant Developer**.
 - 💼 Focusing on cloud-based AI solutions, machine learning model deployment, and data pipeline development.
 - 🚀 I’m currently working on my portfolio.
+- 🐺🎓 CS Master’s student @ Northeastern University | AI • Cloud • Systems
 - 🐊 I'm a CS student @ *University of Florida*.
 - 📫 Reach me through my email - [najib.mosquera@hotmail.com](mailto:najib.mosquera@hotmail.com)
 ### Connect with me:
