@@ -1,8 +1,7 @@
 ## Hi there, welcome to my profile! 👋
-
+👋 I’m **Najib** @NHazelJ.
 <!--
 **NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.-->
-- 👋 I’m **Najib** @NHazelJ.
 - 🤝 Currently working towards becoming an **AI Quant Developer**.
 - 💼 Focusing on cloud-based AI solutions, machine learning model deployment, and data pipeline development.
 - 💻 Building AI, cloud, and systems projects  
