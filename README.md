@@ -6,7 +6,7 @@
 - 💼 Building cloud-based AI solutions, ML model deployment, and data pipelines
 - 💻 AI, cloud, and systems projects (portfolio in progress) 🚀 
 - 📈 Interested in quant & ML engineering
-- 🎓 M.S. Computer Science @ *Northeastern University* 🐺 | AI • Cloud • Systems
+- 🎓 M.S. Computer Science (AI Concentration) @ *Northeastern University* 🐺 | AI • Cloud • Systems
 - 🐊 B.S. Computer Science @ *University of Florida*
 - ⚽ I’m interested in everything code, movies, and soccer.
 - 📫 Reach me through my email - [najib.mosquera@hotmail.com](mailto:najib.mosquera@hotmail.com)
