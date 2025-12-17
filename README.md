@@ -1,14 +1,16 @@
 ## Hi there, welcome to my profile! 👋
 
 <!--
-**NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.-->
 - 👋 I’m **Najib** @NHazelJ.
-- 💻 I’m interested in everything code, movies, and soccer.
 - 🤝 Currently working towards becoming an **AI Quant Developer**.
 - 💼 Focusing on cloud-based AI solutions, machine learning model deployment, and data pipeline development.
+- 💻 Building AI, cloud, and systems projects  
+- 📈 Interested in quant & ML engineering
 - 🚀 I’m currently working on my portfolio.
-- 🎓🐺 CS Master’s student @ Northeastern University | AI • Cloud • Systems
-- 🐊 I'm a CS student @ *University of Florida*.
+- 🎓 M.S. Computer Science @ *Northeastern University* 🐺 | AI • Cloud • Systems
+- 🐊 B.S. Computer Science @ *University of Florida*
+- ⚽ I’m interested in everything code, movies, and soccer.
 - 📫 Reach me through my email - [najib.mosquera@hotmail.com](mailto:najib.mosquera@hotmail.com)
 ### Connect with me:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="60" height="60" style="vertical-align: middle;">](https://www.linkedin.com/in/najib-h-mosquera/)
