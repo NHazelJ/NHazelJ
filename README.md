@@ -4,7 +4,7 @@
 **NHazelJ/NHazelJ** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.-->
 - 🤝 Working toward **AI Software Engineer** roles
 - 💼 Building cloud-based AI solutions, ML model deployment, and data pipelines
-- 💻 AI, cloud, and systems projects (portfolio in progress) 🚀 
+- 💻 AI, Software, cloud, and systems projects (portfolio in progress) 🚀 
 - 🎓 M.S. Computer Science (AI Concentration) @ *Northeastern University* 🐺 | AI • Software Engineer •Cloud • Systems
 - 🐊 B.S. Computer Science @ *University of Florida*
 - ⚽ I’m interested in everything code, movies, and soccer.
