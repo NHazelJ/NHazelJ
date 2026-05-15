@@ -7,7 +7,7 @@
 - 💻 AI, Software, cloud, and systems projects (portfolio in progress) 🚀 
 - 🎓 M.S. Computer Science (AI Concentration) @ *Northeastern University* 🐺 | AI • Software Engineer •Cloud • Systems
 - 🐊 B.S. Computer Science @ *University of Florida*
-- ⚽ I’m interested in everything code, movies, and soccer.
+- ⚽ I’m interested in everything code, movies, beach, and soccer.
 - 📫 Reach me through my email - [najib.mosquera@hotmail.com](mailto:najib.mosquera@hotmail.com)
 ### Connect with me:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="60" height="60" style="vertical-align: middle;">](https://www.linkedin.com/in/najib-h-mosquera/)
